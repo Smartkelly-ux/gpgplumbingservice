@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://gpgplumbing.com/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Primary Mechanical Plumbing Room & Emergency Water Lines -->
+    <image:image>
+      <image:loc>https://gpgplumbing.com/images/hero_plumbing_environment_1790969209399.jpg</image:loc>
+      <image:title>Hialeah Emergency Plumbing and Domestic Water Line Systems</image:title>
+      <image:caption>Licensed plumbing repair, main water line valve replacement, copper repiping, and emergency service in Hialeah, FL 33010, 33012, 33013, 33014, 33016.</image:caption>
+      <image:geo_location>Hialeah, Florida, United States</image:geo_location>
+      <image:license>https://gpgplumbing.com/license</image:license>
+    </image:image>
+
+    <!-- Residential Domestic Supply & Brass Valve Fixtures -->
+    <image:image>
+      <image:loc>https://gpgplumbing.com/images/miami_plumbing_detail_1790969238716.jpg</image:loc>
+      <image:title>Hialeah Residential Plumbing Fixture and Brass Valve Assembly</image:title>
+      <image:caption>Precision brass isolation valves, PEX domestic water line fittings, and under-sink plumbing repair in Hialeah residential homes.</image:caption>
+      <image:geo_location>Hialeah, Florida, United States</image:geo_location>
+      <image:license>https://gpgplumbing.com/license</image:license>
+    </image:image>
+
+    <!-- Hialeah & Greater Miami Service Territory Footprint -->
+    <image:image>
+      <image:loc>https://gpgplumbing.com/images/miami_residential_architecture_1790969223100.jpg</image:loc>
+      <image:title>G P G Plumbing Service Territory Covering Hialeah and Miami-Dade</image:title>
+      <image:caption>Rapid dispatch plumbing fleet servicing residential and commercial properties throughout Hialeah, Hialeah Gardens, and the Miami metropolitan corridor.</image:caption>
+      <image:geo_location>Hialeah, Florida, United States</image:geo_location>
+      <image:license>https://gpgplumbing.com/license</image:license>
+    </image:image>
+  </url>
+
+  <!-- Service-Specific Inventory & Emergency Landing Endpoints -->
+  <url>
+    <loc>https://gpgplumbing.com/#services</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gpgplumbing.com/images/hero_plumbing_environment_1790969209399.jpg</image:loc>
+      <image:title>Hialeah Drain Cleaning, Water Heaters, and Pipe Restoration</image:title>
+      <image:caption>Comprehensive plumbing services including drain clearing, hydro jetting, sewer line camera inspections, and tankless water heater maintenance in Hialeah.</image:caption>
+      <image:geo_location>Hialeah, Florida, United States</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gpgplumbing.com/#emergency</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gpgplumbing.com/images/hero_plumbing_environment_1790969209399.jpg</image:loc>
+      <image:title>24/7 Emergency Plumber Hialeah FL</image:title>
+      <image:caption>Immediate emergency dispatch for burst water pipes, main sewer line backups, and broken municipal shutoff valves across Hialeah.</image:caption>
+      <image:geo_location>Hialeah, Florida, United States</image:geo_location>
+    </image:image>
+  </url>
+</urlset>
